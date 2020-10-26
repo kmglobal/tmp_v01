@@ -1,0 +1,1 @@
+E:\houdini\script>pyuic4.bat -x E:\houdini\script\test.ui -o E:\houdini\script\test.py
